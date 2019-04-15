@@ -23,6 +23,6 @@ function sayHiToGrandma(string) {
     console.log('YES INDEED!')
   }
 function sayHiToGrandma(string) {
-  return string('I love you, grandma.')
+  return string.('I love you, grandma.')
   console.log('I love you, too.')
 }
